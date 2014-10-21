@@ -1,0 +1,258 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/ansibler/jiaqi-sbt/simple/target/scala-2.10/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.4
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+7 items
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/MyHashTF.scala -> /home/ansibler/jiaqi-sbt/simple/target/scala-2.10/classes/com/zetdata/hero/trial/MyHashTf$$anonfun$mytransform$1.class
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/MyHashTF.scala -> /home/ansibler/jiaqi-sbt/simple/target/scala-2.10/classes/com/zetdata/hero/trial/MyHashTf$$anonfun$mytransform$2$$anonfun$apply$1.class
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/MyHashTF.scala -> /home/ansibler/jiaqi-sbt/simple/target/scala-2.10/classes/com/zetdata/hero/trial/MyHashTf$$anonfun$mytransform$2.class
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/MyHashTF.scala -> /home/ansibler/jiaqi-sbt/simple/target/scala-2.10/classes/com/zetdata/hero/trial/MyHashTf.class
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> /home/ansibler/jiaqi-sbt/simple/target/scala-2.10/classes/com/zetdata/hero/trial/SimpleApp$$anonfun$1.class
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> /home/ansibler/jiaqi-sbt/simple/target/scala-2.10/classes/com/zetdata/hero/trial/SimpleApp$.class
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> /home/ansibler/jiaqi-sbt/simple/target/scala-2.10/classes/com/zetdata/hero/trial/SimpleApp.class
+binary dependencies:
+8 items
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/MyHashTF.scala -> /home/ansibler/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.1.0.jar
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/MyHashTF.scala -> /home/ansibler/.ivy2/cache/org.apache.spark/spark-mllib_2.10/jars/spark-mllib_2.10-1.1.0.jar
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/MyHashTF.scala -> /home/ansibler/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> /home/ansibler/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.1.0.jar
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> /home/ansibler/.ivy2/cache/org.apache.spark/spark-mllib_2.10/jars/spark-mllib_2.10-1.1.0.jar
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> /home/ansibler/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> /home/ansibler/jiaqi-sbt/simple/lib/IKAnalyzer-2014zetdata.jar
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> /usr/lib/jvm/java-7-oracle/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+7 items
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/MyHashTF.scala -> com.zetdata.hero.trial.MyHashTf
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/MyHashTF.scala -> com.zetdata.hero.trial.MyHashTf$$anonfun$mytransform$1
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/MyHashTF.scala -> com.zetdata.hero.trial.MyHashTf$$anonfun$mytransform$2
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/MyHashTF.scala -> com.zetdata.hero.trial.MyHashTf$$anonfun$mytransform$2$$anonfun$apply$1
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> com.zetdata.hero.trial.SimpleApp
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> com.zetdata.hero.trial.SimpleApp$
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> com.zetdata.hero.trial.SimpleApp$$anonfun$1
+used names:
+130 items
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/MyHashTF.scala -> +
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/MyHashTF.scala -> <init>
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/MyHashTF.scala -> ==
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/MyHashTF.scala -> Any
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/MyHashTF.scala -> ClassTag
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/MyHashTF.scala -> D
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/MyHashTF.scala -> Double
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/MyHashTF.scala -> HashMap
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/MyHashTF.scala -> HashingTF
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/MyHashTF.scala -> Int
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/MyHashTF.scala -> Iterable
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/MyHashTF.scala -> MyHashTf
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/MyHashTF.scala -> Nothing
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/MyHashTF.scala -> Predef
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/MyHashTF.scala -> RDD
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/MyHashTF.scala -> Vector
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/MyHashTF.scala -> Vectors
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/MyHashTF.scala -> _root_
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/MyHashTF.scala -> apache
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/MyHashTF.scala -> apply
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/MyHashTF.scala -> augmentString
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/MyHashTF.scala -> collection
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/MyHashTF.scala -> com
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/MyHashTF.scala -> cur
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/MyHashTF.scala -> dataset
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/MyHashTF.scala -> document
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/MyHashTF.scala -> empty
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/MyHashTF.scala -> feature
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/MyHashTF.scala -> foreach
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/MyHashTF.scala -> getOrElse
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/MyHashTF.scala -> hero
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/MyHashTF.scala -> i
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/MyHashTF.scala -> id
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/MyHashTF.scala -> indexOf
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/MyHashTF.scala -> linalg
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/MyHashTF.scala -> map
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/MyHashTF.scala -> materializeClassTag
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/MyHashTF.scala -> mllib
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/MyHashTF.scala -> mutable
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/MyHashTF.scala -> mytransform
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/MyHashTF.scala -> numFeatures
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/MyHashTF.scala -> org
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/MyHashTF.scala -> package
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/MyHashTF.scala -> put
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/MyHashTF.scala -> rdd
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/MyHashTF.scala -> scala
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/MyHashTF.scala -> spark
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/MyHashTF.scala -> sparse
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/MyHashTF.scala -> term
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/MyHashTF.scala -> termFrequencies
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/MyHashTF.scala -> toInt
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/MyHashTF.scala -> toSeq
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/MyHashTF.scala -> toString
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/MyHashTF.scala -> trial
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/MyHashTF.scala -> zetdata
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> !=
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> <init>
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> AnyRef
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> Array
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> ClassTag
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> HashingTF
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> IDF
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> IKSegmenter
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> Int
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> JavaConverters
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> Lexeme
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> LinkedList
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> Predef
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> RDD
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> Seq
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> SimpleApp
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> SparkConf
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> SparkContext
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> String
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> StringReader
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> Tuple2
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> Unit
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> Vector
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> add
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> analyzer
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> apache
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> apply
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> asScala
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> asScalaBufferConverter
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> augmentString
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> coalesce
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> collection
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> com
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> conf
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> core
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> documents
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> feature
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> getLexemeText
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> hero
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> id
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> id_descriptions
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> ikSegmenter
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> io
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> java
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> lexeme
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> linalg
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> map
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> materializeClassTag
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> mllib
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> next
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> org
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> p
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> package
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> partitions
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> println
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> rdd
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> rsFile
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> saveAsTextFile
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> sc
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> scala
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> setAppName
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> spark
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> split
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> textFile
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> toInt
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> tokens
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> trial
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> util
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> while$1
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> wltea
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> wordSegment
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> x$1
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> x$2
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> x$3
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> zetdata
+product stamps:
+7 items
+/home/ansibler/jiaqi-sbt/simple/target/scala-2.10/classes/com/zetdata/hero/trial/MyHashTf$$anonfun$mytransform$1.class -> lastModified(1413790269000)
+/home/ansibler/jiaqi-sbt/simple/target/scala-2.10/classes/com/zetdata/hero/trial/MyHashTf$$anonfun$mytransform$2$$anonfun$apply$1.class -> lastModified(1413790269000)
+/home/ansibler/jiaqi-sbt/simple/target/scala-2.10/classes/com/zetdata/hero/trial/MyHashTf$$anonfun$mytransform$2.class -> lastModified(1413790269000)
+/home/ansibler/jiaqi-sbt/simple/target/scala-2.10/classes/com/zetdata/hero/trial/MyHashTf.class -> lastModified(1413790269000)
+/home/ansibler/jiaqi-sbt/simple/target/scala-2.10/classes/com/zetdata/hero/trial/SimpleApp$$anonfun$1.class -> lastModified(1413790269000)
+/home/ansibler/jiaqi-sbt/simple/target/scala-2.10/classes/com/zetdata/hero/trial/SimpleApp$.class -> lastModified(1413790269000)
+/home/ansibler/jiaqi-sbt/simple/target/scala-2.10/classes/com/zetdata/hero/trial/SimpleApp.class -> lastModified(1413790269000)
+source stamps:
+2 items
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/MyHashTF.scala -> hash(a999f23137416b51cbefa96109c711123d1b03b1)
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> hash(09c08e65d1e8947d87f455a23857b627257b209c)
+binary stamps:
+5 items
+/home/ansibler/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.1.0.jar -> lastModified(1409722360000)
+/home/ansibler/.ivy2/cache/org.apache.spark/spark-mllib_2.10/jars/spark-mllib_2.10-1.1.0.jar -> lastModified(1409722767000)
+/home/ansibler/.sbt/boot/scala-2.10.4/lib/scala-library.jar -> lastModified(1395179187000)
+/home/ansibler/jiaqi-sbt/simple/lib/IKAnalyzer-2014zetdata.jar -> lastModified(1413346662000)
+/usr/lib/jvm/java-7-oracle/jre/lib/rt.jar -> lastModified(1409904418000)
+class names:
+5 items
+/home/ansibler/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.1.0.jar -> org.apache.spark.SparkConf
+/home/ansibler/.ivy2/cache/org.apache.spark/spark-mllib_2.10/jars/spark-mllib_2.10-1.1.0.jar -> org.apache.spark.mllib.feature.HashingTF
+/home/ansibler/.sbt/boot/scala-2.10.4/lib/scala-library.jar -> scala.Int
+/home/ansibler/jiaqi-sbt/simple/lib/IKAnalyzer-2014zetdata.jar -> org.wltea.analyzer.core.IKSegmenter
+/usr/lib/jvm/java-7-oracle/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+2 items
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/MyHashTF.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHC3eI9+AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cISE6wx0AAZub3RpZnlzcQB+AAxAoOLtdAAEd2FpdHNxAH4ADAXkU9Z0AA0kYXNJbnN0YW5jZU9mc3EAfgAMrYL7THQABmVxdWFsc3NxAH4ADMTkEnJ0AAtteXRyYW5zZm9ybXNxAH4ADNxm3Md0AAxhc0luc3RhbmNlT2ZzcQB+AAycz/xIdAAMc3luY2hyb25pemVkc3EAfgAMtN7XBXQADSRpc0luc3RhbmNlT2ZzcQB+AAwue4g8dAAJbm90aWZ5QWxsc3EAfgAMLZMIaHQAC251bUZlYXR1cmVzc3EAfgAMTV4qW3QACE15SGFzaFRmc3EAfgAMfIf4XHQADGlzSW5zdGFuY2VPZnNxAH4ADCYr7tp0AAY8aW5pdD5zcQB+AAw2Gl6FdAACPT1zcQB+AAxoxzLJdAAFY2xvbmVzcQB+AAzK0zdpdAAIdG9TdHJpbmdzcQB+AAzk4xELdAACIT1zcQB+AAxUe634dAAIZ2V0Q2xhc3NzcQB+AAxVnECcdAACbmVzcQB+AAxsC2JQdAAJdHJhbnNmb3Jtc3EAfgAMvLD2oXQAB2luZGV4T2ZzcQB+AAzoERTFdAACZXFzcQB+AAymF35kdAACIyNzcQB+AAx6J5qOdAAIZmluYWxpemVzcQB+AAzv54CkdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBJeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAfY29tLnpldGRhdGEuaGVyby50cmlhbC5NeUhhc2hUZnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgBhAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBJTAAJaW5oZXJpdGVkcQB+AElMAAdwYXJlbnRzcQB+AEl4cQB+AGhzcQB+AGEBdXEAfgBEAAAAAHBzcQB+AGEBdXEAfgBEAAAAAHBzcQB+AGEBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAVzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBndAAJSGFzaGluZ1RGc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBnc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAAGc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AANvcmdzcQB+AIB0AAZhcGFjaGVzcQB+AIB0AAVzcGFya3NxAH4AgHQABW1sbGlic3EAfgCAdAAHZmVhdHVyZXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCBc3EAfgB0dAAMU2VyaWFsaXphYmxlc3EAfgB4c3EAfgB7dXEAfgB+AAAAAnNxAH4AgHQABXNjYWxhcQB+AI1zcQB+AHRxAH4Aj3NxAH4AeHNxAH4Ae3VxAH4AfgAAAANzcQB+AIB0AARqYXZhc3EAfgCAdAACaW9xAH4AjXNxAH4AdHQABk9iamVjdHNxAH4AeHNxAH4Ae3VxAH4AfgAAAANzcQB+AIBxAH4AmnNxAH4AgHQABGxhbmdxAH4AjXNxAH4AdHQAA0FueXEAfgCQcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAABHNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0ABBjb20uemV0ZGF0YS5oZXJvc3EAfgCpdAAWY29tLnpldGRhdGEuaGVyby50cmlhbHNxAH4AqXQAC2NvbS56ZXRkYXRhc3EAfgCpdAADY29tc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFJLHd8r3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADkvaG9tZS9hbnNpYmxlci9qaWFxaS1zYnQvc2ltcGxlL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSpmfIxN0FrUcvvqWEJxxESPRsDsQ==
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHA8vcHCAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cDnOq1p0AAZub3RpZnlzcQB+AAzRpEUFdAAEd2FpdHNxAH4ADOqNpEh0AA0kYXNJbnN0YW5jZU9mc3EAfgAMGfUifHQABmVxdWFsc3NxAH4ADA98xEp0AAxhc0luc3RhbmNlT2ZzcQB+AAy7pNq2dAAMc3luY2hyb25pemVkc3EAfgAMbqY7jnQADSRpc0luc3RhbmNlT2ZzcQB+AAxN7kxJdAAEbWFpbnNxAH4ADKMCF7d0AAlub3RpZnlBbGxzcQB+AAwOAzpddAAMaXNJbnN0YW5jZU9mc3EAfgAMJxounnQAAj09c3EAfgAMjNejz3QABWNsb25lc3EAfgAMIGb0g3QACVNpbXBsZUFwcHNxAH4ADBZPlV90AAh0b1N0cmluZ3NxAH4ADHy3Yb50AAIhPXNxAH4ADFus+3p0AAt3b3JkU2VnbWVudHNxAH4ADM7QUdx0AAhnZXRDbGFzc3NxAH4ADI7c1990AAJuZXNxAH4ADLqy6yN0AAJlcXNxAH4ADIOdpEV0AAIjI3NxAH4ADJ0v6ZF0AAhmaW5hbGl6ZXNxAH4ADIlMor10AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEN4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ACBjb20uemV0ZGF0YS5oZXJvLnRyaWFsLlNpbXBsZUFwcHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AWwFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQ0wACWluaGVyaXRlZHEAfgBDTAAHcGFyZW50c3EAfgBDeHEAfgBic3EAfgBbAXVxAH4APgAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4ARHEAfgBNdXEAfgBOAAAAAHNxAH4AUABxAH4AHXVxAH4AUwAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBhdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AYXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AfXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGp4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFZ0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AHFbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AGFzcQB+AHB0AAVBcnJheXEAfgB2dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AHB0AAZTdHJpbmdzcQB+AHRzcQB+AHd1cQB+AHoAAAADc3EAfgB8dAAEamF2YXNxAH4AfHQABGxhbmdxAH4AgXBzcQB+AFsBdXEAfgA+AAAAAHBzcQB+AFsBdXEAfgCVAAAAAnNxAH4AcHQABk9iamVjdHEAfgCZc3EAfgBwdAADQW55cQB+AHZwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAEc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAEGNvbS56ZXRkYXRhLmhlcm9zcQB+AKp0ABZjb20uemV0ZGF0YS5oZXJvLnRyaWFsc3EAfgCqdAALY29tLnpldGRhdGFzcQB+AKp0AANjb21zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAUksd3yvdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAOS9ob21lL2Fuc2libGVyL2ppYXFpLXNidC9zaW1wbGUvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFAnAjmXR6JR9h/RVojhXticleyCc
+external apis:
+0 items
+source infos:
+2 items
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/MyHashTF.scala -> 
+AAAAAAAAAAA=
+/home/ansibler/jiaqi-sbt/simple/src/main/scala/com/zetdata/hero/trial/SimpleApp.scala -> 
+AAAAAAAAAAA=
+compilations:
+19 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSRL4JrF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2Fuc2libGVyL2ppYXFpLXNidC9zaW1wbGUvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSRMLFpJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2Fuc2libGVyL2ppYXFpLXNidC9zaW1wbGUvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSRR/qkt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2Fuc2libGVyL2ppYXFpLXNidC9zaW1wbGUvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSRSCC6x1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2Fuc2libGVyL2ppYXFpLXNidC9zaW1wbGUvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSRSNBsh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2Fuc2libGVyL2ppYXFpLXNidC9zaW1wbGUvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSRSPEZh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2Fuc2libGVyL2ppYXFpLXNidC9zaW1wbGUvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSRSgQs51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2Fuc2libGVyL2ppYXFpLXNidC9zaW1wbGUvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSRSl6fx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2Fuc2libGVyL2ppYXFpLXNidC9zaW1wbGUvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSRw8V/F1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2Fuc2libGVyL2ppYXFpLXNidC9zaW1wbGUvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSRxH9C91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2Fuc2libGVyL2ppYXFpLXNidC9zaW1wbGUvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSRz+mg91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2Fuc2libGVyL2ppYXFpLXNidC9zaW1wbGUvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSR0E3QZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2Fuc2libGVyL2ppYXFpLXNidC9zaW1wbGUvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSR0QPvx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2Fuc2libGVyL2ppYXFpLXNidC9zaW1wbGUvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSSxf2Nx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2Fuc2libGVyL2ppYXFpLXNidC9zaW1wbGUvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSSxjt9Z1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2Fuc2libGVyL2ppYXFpLXNidC9zaW1wbGUvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+15 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSSxqguB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2Fuc2libGVyL2ppYXFpLXNidC9zaW1wbGUvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+16 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSSxv1Vh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2Fuc2libGVyL2ppYXFpLXNidC9zaW1wbGUvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+17 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSSx0Ng11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2Fuc2libGVyL2ppYXFpLXNidC9zaW1wbGUvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+18 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSSx3fK91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2Fuc2libGVyL2ppYXFpLXNidC9zaW1wbGUvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
